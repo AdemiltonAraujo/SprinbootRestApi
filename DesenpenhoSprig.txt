@@ -1,0 +1,18 @@
+-->No desenvolvimento com Sprin usar o toos suit
+
+-->Toda configuração do projeto é feito pelo arquivo POXML.
+
+OBS.Baixa as dependecia de conecxão com o banco de dados.
+
+<!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
+		<dependency>
+			<groupId>mysql</groupId>
+			<artifactId>mysql-connector-java</artifactId>
+			<version>8.0.28</version>
+		</dependency>
+
+---------------------------------------------------------------------------------
+->Dentro do src/main/resources--->pastas--static<fica css, e JavaScript>
+na pasta--Templates<fica toda parte html>
+--.desenho de uma folha <ficar a configuração do banco de dados>
+
