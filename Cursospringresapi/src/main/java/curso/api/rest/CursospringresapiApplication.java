@@ -37,7 +37,7 @@ import org.springframework.web.servlet.config.annotation.EnableWebMvc;
 @EnableAutoConfiguration
 
 //TODOS ESSES PASSOS ACIMA E NECESSARIO PARA O BROJETO SPRING RODAR EM QUALQUER ARQUITETURA
-
+//TESTE
 
 public class CursospringresapiApplication {
 
